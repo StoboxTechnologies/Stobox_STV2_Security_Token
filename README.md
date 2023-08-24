@@ -1,5 +1,5 @@
-# STV2 Stobox Security Token V2
-Stobox Ecosystem Security Token
+# Stobox STV2 Standard Security Token
+Stobox Ecosystem Security Token Standards
 
 ## STV2 Security Token is a smart contract that is created and represents a security token issued on a particular blockchain network.
 
